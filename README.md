@@ -14,13 +14,13 @@ A export to excel library built with and for [React](http://facebook.github.io/r
 With [yarn](https://yarnpkg.com/en/):
 
 ```sh
-yarn add react-export-excel
+yarn add @slnsw/react-export-excel
 ```
 
-With [npm](https://www.npmjs.org/package/react-export-excel):
+With [npm](https://www.npmjs.org/package/@slnsw/react-export-excel):
 
 ```sh
-npm install react-export-excel --save
+npm install @slnsw/react-export-excel --save
 ```
 
 ## Code Examples
