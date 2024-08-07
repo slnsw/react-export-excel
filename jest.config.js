@@ -1,6 +1,7 @@
 module.exports = {
     name: 'react-data-export-jest',
     verbose: true,
+    testURL: 'http://localhost/',
     collectCoverage: true,
     coveragePathIgnorePatterns: [
         'node_modules',
